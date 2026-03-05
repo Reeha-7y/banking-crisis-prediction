@@ -23,6 +23,13 @@ Tree-based models performed very well in predicting banking crises.
 - stmkcap
 - pcrdbofgdp
 
+  ## Model Performance (ROC Curve)
+
+The ROC curve shows the performance of the classification model in distinguishing between banking crisis and non-crisis cases.
+
+![ROC Curve](ROC-AUC_curve.png)
+The model achieved a very high ROC-AUC score, indicating excellent classification performance.
+
 ## Dataset
 The dataset contains economic indicators used to predict banking crises.
 
